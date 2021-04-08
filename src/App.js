@@ -30,10 +30,6 @@ const App = () => {
                   vote:0, winner: false },
               ]);
             });
-          // setTopVenue((prevTopVenue) => [
-          //   ...prevTopVenue,
-          //   { id: element.id, name: element.name, vote: 0, winner: false },
-          // ]);
         });
       });
     }
